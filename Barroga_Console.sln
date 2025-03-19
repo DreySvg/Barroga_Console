@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barroga_Console", "Barroga_Console\Barroga_Console.csproj", "{1315F680-D585-4628-9BA3-CFBB2E6D07A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1315F680-D585-4628-9BA3-CFBB2E6D07A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1315F680-D585-4628-9BA3-CFBB2E6D07A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1315F680-D585-4628-9BA3-CFBB2E6D07A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1315F680-D585-4628-9BA3-CFBB2E6D07A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2993054-6E3B-48E6-8F81-F5B540A9F27E}
+	EndGlobalSection
+EndGlobal
